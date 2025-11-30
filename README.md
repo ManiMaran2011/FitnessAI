@@ -1,6 +1,5 @@
 # FitnessAI
-
-A simple AI project to recommend workouts and meals based on user input.
+An AI-driven fitness recommendation system that uses user-provided parameters (height, weight, goals, preferences) to algorithmically generate personalized workout and meal plans. The application also features an interactive LLM-powered chatbot that allows users to ask follow-up questions, refine recommendations, and get real-time fitness guidance.
 
 ## Files
 - `app.py` : Main Python source code
